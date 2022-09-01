@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rafael-Rossato
-- 🖥️ I’m interested in Learning new languages and technologies;
-- 🧑‍🎓 I’m currently learning JS, HTML, CSS and MYSQL. After that, I'm looking to study Python 🐍 and the Data Science World :atom: ;
-- 👷 I’m looking to collaborate on everything as possible;
+- 🖥️ Interested in Learning new languages and technologies;
+- 🧑‍🎓 Currently learning JS, HTML, CSS and MYSQL. After that, I'm looking to study Python 🐍 and the Data Science World :atom: ;
+- 👷 Looking to collaborate on everything as possible;
 - 📫 How to reach me  : This GitHub :)
 
 <!---
